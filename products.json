@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1",
+    "name": "Телевізор Samsung QLED 55'' QE55Q7FAAUXUA",
+    "price": "26 999",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/629018299.jpg",
+    "category": "televisions"
+  },
+  {
+    "id": "2",
+    "name": "Телевізор LG OLED 55'' OLED55C54LA",
+    "price": "69 999",
+    "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/632446348.jpg",
+    "category": "televisions"
+  },
+  {
+    "id": "3",
+    "name": "Телевізор Ergo QLED 43'' 43JUQ7500",
+    "price": "11 499",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/598908825.jpg",
+    "category": "televisions"
+  },
+  {
+    "id": "4",
+    "name": "Телевізор LG OLED 65'' OLED65B56LA",
+    "price": "77 999",
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/632460440.jpg",
+    "category": "televisions"
+  },
+  {
+    "id": "5",
+    "name": "Ноутбук Acer Nitro V 15 ANV15-52-52UE (NH.QZ7EU.00D) Obsidian Black / 15.6” IPS Full HD 165 Гц / Intel Core i5-13420H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 5050, 8 ГБ",
+    "price": "46 999",
+    "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/626009025.png",
+    "category": "notebooks"
+  },
+  {
+    "id": "6",
+    "name": "Ноутбук ASUS Vivobook 15 X1502VA-BQ737 (90NB10T1-M01AF0) Quiet Blue / 15.6\" IPS Full HD / Intel Core i5-13420H / RAM 16 ГБ / SSD 1 ТБ",
+    "price": "26 999",
+    "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/619295129.jpg",
+    "category": "notebooks"
+  },
+  {
+    "id": "7",
+    "name": "Ноутбук Lenovo LOQ 15IRX9 (83DV01EVRA) Luna Grey / 15.6\" IPS Full HD 144 Гц / Intel Core i5-13450HX / RAM 16 ГБ / SSD 512 ГБ / GeForce RTX 3050, 6 ГБ (TDP 95 Вт)",
+    "price": "38 999",
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/629794954.jpg",
+    "category": "notebooks"
+  },
+  {
+    "id": "8",
+    "name": "Ноутбук Apple MacBook Air 13.6\" M4 16/256GB 2025 (MC6T4UA/A) Sky Blue",
+    "price": "55 999",
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/523953766.jpg",
+    "category": "notebooks"
+  },
+  {
+    "id": "9",
+    "name": "Keyboard Мобільний телефон Samsung Galaxy A26 5G 8/256GB Black (SM-A266BZKCEUC)",
+    "price": "10 299",
+    "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/523634222.jpg",
+    "category": "smartphones"
+  },
+  {
+    "id": "10",
+    "name": "Мобільний телефон Xiaomi Redmi Note 15 8/256GB Black (1183675)",
+    "price": "9 999",
+    "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/640694198.jpg",
+    "category": "smartphones"
+  },
+  {
+    "id": "11",
+    "name": "Мобільний телефон Apple iPhone 17 Pro 256GB Deep Blue (MG8J4AF/A)",
+    "price": "63 999",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/594346714.jpg",
+    "category": "smartphones"
+  },
+  {
+    "id": "12",
+    "name": "Монітор 24.5\" Acer EK251QGbi (UM.KE1EE.G01) -- IPS FHD / 120Hz / 4 мс (GTG) / AMD FreeSync / Blue Light Filter / sRGB: 99 %",
+    "price": "3 399",
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/565659453.jpg",
+    "category": "monitors"
+  },
+
+  {
+    "id": "13",
+    "name": "Монітор 24\" Samsung Odyssey G3 (LS24DG300EIXUA) -- FullHD / VA / 180Hz / 1 мс (MPRT) / HDR10 / AMD FreeSync / Pivot / Black Equalizer / 95% sRGB",
+    "price": "5 299",
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/575065940.jpg",
+    "category": "monitors"
+  },
+  {
+    "id": "14",
+    "name": "Монітор 27\" Samsung Odyssey G50D (LS27DG502EIXUA) -- QHD 2K / IPS / 180Hz / 1 мс (GTG) / DisplayHDR 400 / FreeSync Premium / G-Sync Compatible / Pivot / Black Equalizer",
+    "price": "49 999",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/620055880.jpg",
+    "category": "monitors"
+  },
+  {
+    "id": "15",
+    "name": "Монітор 31.5\" MSI G32CQ5P -- 2K QHD / VA 1500R / 170Hz / 1ms (MPRT) / 8-Bit + FRC / DCI-P3 91% / HDR Ready / Adaptive-Sync / G-Sync Compatible",
+    "price": "7 999",
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/465946452.jpg",
+    "category": "monitors"
+  }
+
+]
